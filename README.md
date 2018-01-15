@@ -53,7 +53,10 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 ## **WEEK 2 (15-19 January)**:
 
 ### **Monday**: 
-* 
+* Started reading from the Hugo docs, understood the [directory structure](https://gohugo.io/getting-started/directory-structure/) and the connection between the generated folders. 
+* Worked on implementing the new ShowcarUI elements to the SEO moto homepage. The anchor list group element proved to be quite problematic, so we'll continue with it tomorrow. => *__more Hugo study is definitely needed!!__*
+* Came up with a solution for one of our Hugo problem ([creating the link lists divided by first letter](https://discourse.gohugo.io/t/lists-of-content-divided-by-posts-first-letter/8534))
+* Forked a repo, created the upstream master remote and updated my fork -> First time I got it right without any help. Working in the terminal is getting much easier now.
 
 ### **Tuesday**: 
 * 
