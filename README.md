@@ -10,7 +10,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 
 <br>
 
-## **WEEK 1**:
+## **WEEK 1 (8-12 January)**:
 
 ### **Monday**: 
 * Got an intro to [Hugo](https://gohugo.io) and looked through the seo pages' code.
@@ -50,7 +50,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 
 <br>
 
-## **WEEK 2**:
+## **WEEK 2 (15-19 January)**:
 
 ### **Monday**: 
 * 
