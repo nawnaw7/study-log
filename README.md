@@ -62,7 +62,8 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Forked a repo, created the upstream master remote and updated my fork -> First time I got it right without any help. Working in the terminal is getting much easier now.
 
 ### **Tuesday**: 
-* 
+* Watched a course on [How the Internet Works](https://www.khanacademy.org/partner-content/code-org/internet-works) from code.org -> Learned a bit about IPs, DNS, info packets, routers, HTTP/HTTPS.
+*  
 
 ### **Wednesday**: 
 * 
