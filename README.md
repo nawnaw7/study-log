@@ -63,7 +63,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 
 ### **Tuesday**: 
 * Watched a course on [How the Internet Works](https://www.khanacademy.org/partner-content/code-org/internet-works) from code.org -> Learned a bit about IPs, DNS, info packets, routers, HTTP/HTTPS.
-*  
+* Read an article on HTTP - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) => got an intro to the URL structure, verbs and status codes (pillars of HTTP communication).
 
 ### **Wednesday**: 
 * 
@@ -77,7 +77,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 <br>
 
 ## **TODO next**: 
-* 
+* Read the [High Performance Browser Networking](https://hpbn.co/) book / or at least the HTTP section.
 
 <br>
 
