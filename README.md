@@ -66,7 +66,9 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Read an article on HTTP - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) => got an intro to the URL structure, verbs and status codes (pillars of HTTP communication).
 
 ### **Wednesday**: 
-* 
+* Stared a power up course on git called [Learn Git Branching](https://learngitbranching.js.org/) -> Did 10 challenges and it really helped me understand and use Git better.
+* Worked on the styles of the moto SEO hub page.
+* Learned a bit more Hugo (still general stuff).
 
 ### **Thursday**: 
 * 
