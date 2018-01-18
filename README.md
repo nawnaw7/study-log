@@ -74,13 +74,15 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Almost done with [Learn Git Branching](https://learngitbranching.js.org/) --> This really made me understand git much better and use it more effectively. 
 * Got an intro to Jigsaw (thanks to Alex) -> 'worked' with him on a jigsaw task; we prepared for the release of the german moto seo pages.
 
-### **Friday**: 
+### **Friday (Frontend Ninja)**: 
 * 
 
 <br>
 
 ## **TODO next**: 
 * Read the [High Performance Browser Networking](https://hpbn.co/) book / or at least the HTTP section.
+* Read more about Jigsaw and nginx
+* Look at Gulp [docs](https://github.com/gulpjs/gulp/blob/master/docs/API.md) for detailed info.
 
 <br>
 
