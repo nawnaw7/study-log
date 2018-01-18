@@ -72,7 +72,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 
 ### **Thursday**: 
 * Almost done with [Learn Git Branching](https://learngitbranching.js.org/) --> This really made me understand git much better and use it more effectively. 
-* Got an intro to Jigsaw (thanks to Alex) -> 'worked' with him on a jigsaw task.
+* Got an intro to Jigsaw (thanks to Alex) -> 'worked' with him on a jigsaw task; we prepared for the release of the german moto seo pages.
 
 ### **Friday**: 
 * 
