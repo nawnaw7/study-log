@@ -33,7 +33,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * 'Worked' on the SEO images optimization task with Max and looked a bit at Gulp again.
 * Continued with a Flexbox course - [Flexbox Zombies](https://geddski.teachable.com/courses/) by geddski - Understood more about flex-wrap.
 * More Git - solved some conflicts my fork had with the upstream master branch (Diana helped clarify a few things ^^).
-* Used Hugo in practice for the first time (with Yifan) while working on the adjusting the SEO hub pages task. It was a bit confusing, but not as hard as I previously thought => I definitely need more Hugo practice/learning. 
+* Used Hugo in practice for the first time (with Yifan) while working on adjusting the SEO hub pages task. It was a bit confusing, but not as hard as I previously thought => I definitely need more Hugo practice/learning. 
 
 ### **Friday**: 
 * Worked on a task given to me by Mimmo - Had to fix some bugs/do some changes to a few of ShowcarUI's new elements.
@@ -66,7 +66,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Read an article on HTTP - [HTTP: The Protocol Every Web Developer Must Know - Part 1](https://code.tutsplus.com/tutorials/http-the-protocol-every-web-developer-must-know-part-1--net-31177) => got an intro to the URL structure, verbs and status codes (pillars of HTTP communication).
 
 ### **Wednesday**: 
-* Stared a power up course on git called [Learn Git Branching](https://learngitbranching.js.org/) -> Did 10 challenges and it really helped me understand and use Git better.
+* Started a power up course on git called [Learn Git Branching](https://learngitbranching.js.org/) -> Did 10 challenges and it really helped me understand and use Git better.
 * Worked on the styles of the moto SEO hub page.
 * Learned a bit more Hugo (still general stuff).
 
@@ -86,6 +86,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Read more about Jigsaw and nginx
 * Look at Gulp [docs](https://github.com/gulpjs/gulp/blob/master/docs/API.md) for detailed info.
 * Finish the [Pro Git book](https://git-scm.com/book/en/v2). 
+* Give Hugo some more time!!
 
 <br>
 
