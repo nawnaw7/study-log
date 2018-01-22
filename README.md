@@ -97,7 +97,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 ## **WEEK 3 (22-26 January)**:
 
 ### **Monday**: 
-* 
+* Looking at the Hugo docs again. Read more about shortcodes --> gonna continue though the day when I have time.
 
 ### **Tuesday**: 
 * 
