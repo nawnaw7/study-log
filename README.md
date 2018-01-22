@@ -92,4 +92,57 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 
 ---
 
+<br>
+
+## **WEEK 3 (22-26 January)**:
+
+### **Monday**: 
+* 
+
+### **Tuesday**: 
+* 
+
+### **Wednesday**: 
+* 
+
+### **Thursday**: 
+* 
+
+### **Friday (Frontend Ninja)**: 
+* 
+<br>
+
+## **TODO next**: 
+* 
+
+<br>
+
+---
+
+<br>
+
+## **WEEK 4 (29 January - 02 February)**:
+
+### **Monday**: 
+* 
+
+### **Tuesday**: 
+* 
+
+### **Wednesday**: 
+* 
+
+### **Thursday**: 
+* 
+
+### **Friday (Frontend Ninja)**: 
+* 
+<br>
+
+## **TODO next**: 
+* 
+
+<br>
+
+---
 
