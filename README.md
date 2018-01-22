@@ -75,7 +75,9 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Got an intro to Jigsaw (thanks to Alex) -> 'worked' with him on a jigsaw task; we prepared for the release of the german moto seo pages.
 
 ### **Friday (Frontend Ninja)**: 
-* 
+* Finished with [Learn Git Branching](https://learngitbranching.js.org/)! Best Git course I ever did. Helped me get a better and deeper understanding on how to use git both locally and with remotes. 
+* I created a Git Commands Cheatsheet for me and my colleagues after following this course.
+* Started reading from the [Pro Git book](https://git-scm.com/book/en/v2). 
 
 <br>
 
@@ -83,6 +85,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Read the [High Performance Browser Networking](https://hpbn.co/) book / or at least the HTTP section.
 * Read more about Jigsaw and nginx
 * Look at Gulp [docs](https://github.com/gulpjs/gulp/blob/master/docs/API.md) for detailed info.
+* Finish the [Pro Git book](https://git-scm.com/book/en/v2). 
 
 <br>
 
