@@ -98,6 +98,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 
 ### **Monday**: 
 * Looking at the Hugo docs again. Read more about shortcodes --> gonna continue though the day when I have time.
+* Finished with the [Flexbox Zombies Course](https://geddski.teachable.com/courses/) --> will transform my flexbox notes into a cheatsheet when I have a bit of time.
 
 ### **Tuesday**: 
 * 
