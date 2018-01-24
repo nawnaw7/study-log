@@ -101,7 +101,10 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Finished with the [Flexbox Zombies Course](https://geddski.teachable.com/courses/) --> will transform my flexbox notes into a cheatsheet when I have a bit of time.
 
 ### **Tuesday**: 
-* 
+* Worked on the moro seo page - we're basically done with it, just waiting for anither team to adjust the long link list part. 
+* Hugo is still confusing, but I have the feeling I understand it a bit better now.
+* I really like using git through the command line. I had some issues with one of my forked repos, but I synced it with the upstream after a few tries. Now everything is up to date and I'm happy that I'm very confortable with using Git now.
+* Learned about Hugo [shortcodes](https://gohugo.io/content-management/shortcodes/) and [content sections](https://gohugo.io/content-management/sections/) --> saw and understood a very nice example of Breadcrumbs partial.
 
 ### **Wednesday**: 
 * 
