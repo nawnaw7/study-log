@@ -107,7 +107,8 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * Learned about Hugo [shortcodes](https://gohugo.io/content-management/shortcodes/) and [content sections](https://gohugo.io/content-management/sections/) --> saw and understood a very nice example of Breadcrumbs partial.
 
 ### **Wednesday**: 
-* 
+* I looked at Ruby syntax by doing a short intro course from Codecademy [Learn Ruby](https://www.codecademy.com/learn/learn-ruby) --> I did this because I thought it was necessary in order to solve a task, but in the end it was a different problem. 
+* I continued my Hugo study -- learned about [Archtypes](https://gohugo.io/content-management/archetypes/) and [Taxonomies](https://gohugo.io/content-management/taxonomies/).
 
 ### **Thursday**: 
 * 
