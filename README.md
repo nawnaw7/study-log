@@ -111,7 +111,7 @@ Lastly, I'm doing this in the shape of a GitHub repository in order to get used 
 * I continued my Hugo study -- learned about [Archtypes](https://gohugo.io/content-management/archetypes/) and [Taxonomies](https://gohugo.io/content-management/taxonomies/).
 
 ### **Thursday**: 
-* 
+* Pushed the branch Yifan and I worked on into the main seo-moto-pages repo and DEPLOYed!
 
 ### **Friday (Frontend Ninja)**: 
 * 
