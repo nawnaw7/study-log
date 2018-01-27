@@ -1,0 +1,13 @@
+@import 'partials/header';
+@import 'partials/menu';
+@import 'partials/content';
+@import 'partials/footer';
+
+
+.main {
+    height: 100vh;
+
+    .content {
+        width: 50vw;
+    }
+}
