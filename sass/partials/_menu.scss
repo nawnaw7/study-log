@@ -1,4 +1,50 @@
 .sidemenu {
     grid-area: sidemenu;
     background-color: darken($color: darkorange, $amount: 10);
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+
+    .nav-title {
+        color: whitesmoke;
+    }
+
+    .nav {
+        margin-top: 10px;
+        list-style: none;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        text-align: center;
+
+        .nav-item {
+            flex-basis: 25%;
+            padding: 7px;
+
+            a:hover {
+                color: darken($color: whitesmoke, $amount: 30)
+            }
+        }
+
+    }
+
+    a {
+        text-decoration: none;
+        color: whitesmoke;
+    }
+
+    @media screen and (min-width: 768px) {
+        border-radius: 0 10px 10px 0;
+        justify-content: flex-start;
+
+        .nav-title {
+            margin-top: 35px;
+        }
+
+        .nav {
+            flex-direction: column;
+            margin-top: 30px;
+        }
+    }
 }
