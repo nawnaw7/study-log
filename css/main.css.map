@@ -1,7 +1,7 @@
 {
 "version": 3,
-"mappings": "AACI,aAAM;EACF,KAAK,EAAE,IAAI;;ACInB,KAAM;EACF,MAAM,EAAE,KAAK;EAEb,cAAS;IACL,KAAK,EAAE,IAAI",
-"sources": ["../sass/partials/_content.scss","../sass/main.scss"],
+"mappings": "AAAA,CAAE;EACE,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;;AAG1B,QAAS;EACL,MAAM,EAAE,KAAK;EACb,OAAO,EAAE,IAAI;EACb,QAAQ,EAAE,GAAG;EACb,aAAa,EAAE,uBAAuB;EACtC,mBAAmB,EACf,sCAGQ;EACZ,KAAK,EAAE,IAAI;EAEX,oCAAqC;IAZzC,QAAS;MAaD,aAAa,EAAE,yBAAyB;MACxC,mBAAmB,EACf,qDAEe;;ACvB3B,OAAQ;EACJ,SAAS,EAAE,MAAM;EACjB,SAAS,EAAE,IAAI;EAEf,oCAAqC;IAJzC,OAAQ;MAKA,OAAO,EAAE,IAAI;MACb,eAAe,EAAE,MAAM;MACvB,WAAW,EAAE,MAAM;MACnB,SAAS,EAAE,IAAI;;AAQvB;OACQ;EACJ,gBAAgB,EAAE,IAAI;;AClB1B,SAAU;EACN,SAAS,EAAE,QAAQ;EACnB,gBAAgB,EAAE,OAAuC;;ACF7D,QAAS;EACL,SAAS,EAAE,OAAO;EAClB,gBAAgB,EAAE,OAAuC;;ACF7D,OAAQ;EACJ,SAAS,EAAE,MAAM",
+"sources": ["../sass/main.scss","../sass/partials/_header.scss","../sass/partials/_menu.scss","../sass/partials/_content.scss","../sass/partials/_footer.scss"],
 "names": [],
 "file": "main.css"
 }

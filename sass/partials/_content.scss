@@ -1,5 +1,6 @@
-.blabla {
-    .tabe {
-        color: blue;
-    }
+.content {
+    grid-area: content;
+    background-color: lighten($color: lightgray, $amount: 10);
 }
+
+
