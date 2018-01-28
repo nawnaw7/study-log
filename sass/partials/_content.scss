@@ -1,13 +1,15 @@
+@import 'variables';
+
 .content {
     grid-area: content;
-    background-color: lighten($color: lightgray, $amount: 10);
-
-    @media screen and (min-width: 768px) {
-        border-radius: 10px 0 0 10px;
-    }
+    background-color: $primary-light;
+    color: $primary-dark;
 
     .weekly-log {
-        margin: 30px;
+        margin: 20px;
+        padding: 30px;
+        box-shadow: 0 0 20px -2px rgb(214, 214, 214);
+        border-radius: 5px;
 
         .weekly-title {
             font-size: 1.5rem;
@@ -15,12 +17,33 @@
     }
 
     .daily-log {
-        padding: 20px;
+        padding: 10px;
+        line-height: 150%;
+        font-size: 1.1rem;
 
         .daily-title {
             display: block;
             padding: 20px 0;
+            font-size: 1.3rem;
+            font-weight: bold;
+        }
+
+        .arrows {
             font-size: 1.2rem;
+            padding-right: 5px;
+        }
+    }
+
+    @media screen and (min-width: 768px) {
+        border-radius: 10px 0 0 10px;
+
+        .weekly-log {
+            margin: 30px;
+            padding: 50px;
+        }
+
+        .daily-log {
+            padding: 20px;
         }
     }
 }
