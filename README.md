@@ -2,6 +2,8 @@
 
 ## *This is a journal of my Front End learning path*
 
+### [Check the website](https://nawnaw7.github.io/study-log/)
+
 I'm going to document my progress in the field of web development by putting up a journal containing all my learnings, exercises, courses, as well as everything else than helped me on my path of becoming a better Front End Developer. 
 
 I'm going to keep this going for a few months in order to have a clear view of the progress that I'm making.
