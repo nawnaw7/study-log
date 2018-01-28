@@ -1,12 +1,29 @@
+@import 'partials/variables';
+
 * {
     padding: 0;
     margin: 0;
     box-sizing: border-box;
 }
 
+a {
+    color: $link-default;
+}
+
+a:link,
+a:visited {
+    color: darken($link-hover, 5);
+    text-decoration: none;
+}
+
+a:hover,
+a:active {
+    color: $link-hover;
+    text-decoration: underline;
+}
+
 .wrapper {
     min-width: 355px;
-    height: 100vh;
     font-family: sans-serif;
     display: grid;
     grid-gap: 3px;
@@ -17,13 +34,14 @@
         "content"
         "footer";
     color: #444;
+    background-color: $primary-light;
 
     @media screen and (min-width: 768px) {
-        grid-gap: 10px;
+        grid-gap: 15px;
         grid-template: 150px 1fr 100px / 1fr 3fr;
         grid-template-areas: 
-            "....... header" 
-            "sidemenu content" 
+            "sidemenu header" 
+            "sidemenu content"
             "footer footer";
     }
 }
