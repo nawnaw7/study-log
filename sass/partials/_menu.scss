@@ -1,13 +1,15 @@
+@import 'variables';
+
 .sidemenu {
     grid-area: sidemenu;
-    background-color: darken($color: darkorange, $amount: 10);
+    background-color: $secondary-dark;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
 
     .nav-title {
-        color: whitesmoke;
+        color: $primary-light;
     }
 
     .nav {
@@ -17,16 +19,15 @@
         flex-direction: row;
         flex-wrap: wrap;
         text-align: center;
+    }
 
-        .nav-item {
-            flex-basis: 25%;
-            padding: 7px;
+    .nav-item {
+        flex-basis: 25%;
+        padding: 7px;
 
-            a:hover {
-                color: darken($color: whitesmoke, $amount: 30)
-            }
+        &:hover a {
+            color: $secondary-light;
         }
-
     }
 
     a {
@@ -35,16 +36,33 @@
     }
 
     @media screen and (min-width: 768px) {
-        border-radius: 0 10px 10px 0;
+        border-radius: 0 0 5px 0;
         justify-content: flex-start;
 
         .nav-title {
             margin-top: 35px;
+            font-size: 2.5rem;
         }
 
         .nav {
+            position: sticky;
+            top: 20px;
             flex-direction: column;
-            margin-top: 30px;
+            margin-top: 50px;
+            width: 100%;
+        }
+
+        .nav-item {
+            font-size: 1.3rem;
+            padding: 15px;
+
+            &:hover {
+                background-color: $primary-light;
+
+                a {
+                    color: $secondary-dark;
+                }
+            }
         }
     }
 }
