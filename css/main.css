@@ -27,7 +27,7 @@ a:active {
   background-color: #ffffff; }
   @media screen and (min-width: 768px) {
     .wrapper {
-      grid-gap: 15px;
+      grid-gap: 10px;
       grid-template: 150px 1fr 100px / 1fr 3fr;
       grid-template-areas: "sidemenu header"  "sidemenu content" "footer footer"; } }
 
@@ -83,6 +83,10 @@ a:active {
         margin-top: 35px;
         font-size: 2.5rem; }
       .sidemenu .nav {
+        position: -webkit-sticky;
+        position: -moz-sticky;
+        position: -ms-sticky;
+        position: -o-sticky;
         position: sticky;
         top: 20px;
         flex-direction: column;
