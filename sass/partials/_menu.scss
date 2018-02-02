@@ -1,72 +1,72 @@
 @import 'variables';
 
 .sidemenu {
-    grid-area: sidemenu;
-    background-color: $secondary-dark;
+  grid-area: sidemenu;
+  background-color: $secondary-dark;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  .nav-title {
+    color: $primary-light;
+  }
+
+  .nav {
+    margin-top: 10px;
+    list-style: none;
     display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
+    flex-direction: row;
+    flex-wrap: wrap;
+    text-align: center;
+  }
+
+  .nav-item {
+    flex-basis: 25%;
+    padding: 7px;
+    
+    &:hover a {
+      color: $secondary-light;
+    }
+  }
+
+  a {
+    text-decoration: none;
+    color: whitesmoke;
+  }
+
+  @media screen and (min-width: 768px) {
+    border-radius: 0 0 5px 0;
+    justify-content: flex-start;
 
     .nav-title {
-        color: $primary-light;
+      margin-top: 35px;
+      font-size: 2.5rem;
     }
 
     .nav {
-        margin-top: 10px;
-        list-style: none;
-        display: flex;
-        flex-direction: row;
-        flex-wrap: wrap;
-        text-align: center;
+      position: -webkit-sticky;
+      position: -moz-sticky;
+      position: -ms-sticky;
+      position: -o-sticky;
+      position: sticky;
+      top: 20px;
+      flex-direction: column;
+      margin-top: 50px;
+      width: 100%;
     }
 
     .nav-item {
-        flex-basis: 25%;
-        padding: 7px;
+      font-size: 1.3rem;
+      padding: 15px;
 
-        &:hover a {
-            color: $secondary-light;
+      &:hover {
+        background-color: $primary-light;
+
+        a {
+          color: $secondary-dark;
         }
+      }
     }
-
-    a {
-        text-decoration: none;
-        color: whitesmoke;
-    }
-
-    @media screen and (min-width: 768px) {
-        border-radius: 0 0 5px 0;
-        justify-content: flex-start;
-
-        .nav-title {
-            margin-top: 35px;
-            font-size: 2.5rem;
-        }
-
-        .nav {
-            position: -webkit-sticky;
-            position: -moz-sticky;
-            position: -ms-sticky;
-            position: -o-sticky;
-            position: sticky;
-            top: 20px;
-            flex-direction: column;
-            margin-top: 50px;
-            width: 100%;
-        }
-
-        .nav-item {
-            font-size: 1.3rem;
-            padding: 15px;
-
-            &:hover {
-                background-color: $primary-light;
-
-                a {
-                    color: $secondary-dark;
-                }
-            }
-        }
-    }
+  }
 }

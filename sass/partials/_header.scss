@@ -1,31 +1,31 @@
 @import 'variables';
 
 .header {
-    grid-area: header;
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    color: $primary-light;
-    background-color: $primary-dark;
+  grid-area: header;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: $primary-light;
+  background-color: $primary-dark;
+
+  .title {
+    font-size: 2rem;
+  }
+
+  .subtitle {
+    font-size: 1rem;
+  }
+
+  @media screen and (min-width: 768px) {
+    border-radius: 0 0 0 5px;
 
     .title {
-        font-size: 2rem;
+      font-size: 3rem;
     }
-
+    
     .subtitle {
-        font-size: 1rem;
+      font-size: 1.3rem;
     }
-
-    @media screen and (min-width: 768px) {
-        border-radius: 0 0 0 5px;
-
-        .title {
-            font-size: 3rem;
-        }
-
-        .subtitle {
-            font-size: 1.3rem;
-        }
-    }
+  }
 }
